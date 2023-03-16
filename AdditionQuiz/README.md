@@ -23,13 +23,13 @@ What is 26 + 43?: {user input}
 <br/>
 What is 4 + 18?: {user input}
 <br/>
-.
+What is 0 + 7?: {user input}
 <br/>
-.
+What is 50 + 39?: {user input}
 <br/>
-.
+What is 9 + 28?: {user input}
 <br/>
-Score: 3
+Score: 3 (dependent on how many times the user got it correct)
 <br/>
 Feedback: Very Good!
 <br/>
