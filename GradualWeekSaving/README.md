@@ -7,7 +7,7 @@ after X days.
 <br/>
 Example:
 <br/>
-Days to save money: 16
+Days to save money: $16
 <br/>
-Money saved: 27
+Money saved: $27
 <br/>
