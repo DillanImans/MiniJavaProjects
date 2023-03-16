@@ -8,7 +8,7 @@ Example:
 <br/>
 Initial balance: $1000
 <br/>
-Interest: 10
+Interest: 10(%)
 <br/>
 Years: 3
 <br/>
