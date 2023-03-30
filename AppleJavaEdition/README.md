@@ -1,4 +1,5 @@
 Objective:
+<br/>
 Make an Apple Store where the customer can choose what to buy, and what additional features they want to buy.
 <br/>
 I do recommend running my code so you can see what's going on. Make something similar to that.
