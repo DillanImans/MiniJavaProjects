@@ -7,5 +7,5 @@ From easiest to hardest:
 - Gradual weekly savings
 - Dice rolling statistics
 - Apple Store [slightly bigger project | first oop-based project]
-- ATM [even bigger project | first swing project ]
+- ATM [even bigger project | first swing project]
 -
