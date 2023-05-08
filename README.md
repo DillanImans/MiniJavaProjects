@@ -6,6 +6,6 @@ From easiest to hardest:
 - Compound interest calculator
 - Gradual weekly savings
 - Dice rolling statistics
-- Apple Store [slightly bigger project | first oop-based project]
-- ATM [even bigger project | first swing project]
--
+- Apple Store [first oop-based project]
+- ATM [first swing project]
+- Form Handling [first error handling project, with swing]
